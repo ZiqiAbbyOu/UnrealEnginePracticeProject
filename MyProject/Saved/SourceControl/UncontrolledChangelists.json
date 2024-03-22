@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/3DModel/FbxScene_grassland.uasset",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/3DModel/Untitled.umap",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/NewMap.umap",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/3DModel/grassland.uasset",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/3DModel/Cube.uasset",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/3DModel/Material.uasset",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/mirac/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		}
+	]
+}
